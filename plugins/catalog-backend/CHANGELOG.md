@@ -1,5 +1,17 @@
 # @backstage/plugin-catalog-backend
 
+## 0.8.2
+
+### Patch Changes
+
+- 227439a72: Add support for non-organization accounts in GitHub Discovery
+- Updated dependencies [38ca05168]
+- Updated dependencies [d8b81fd28]
+  - @backstage/backend-common@0.6.4
+  - @backstage/integration@0.5.2
+  - @backstage/catalog-model@0.7.8
+  - @backstage/config@0.1.5
+
 ## 0.8.1
 
 ### Patch Changes

@@ -1,5 +1,20 @@
 # @backstage/plugin-scaffolder
 
+## 0.9.3
+
+### Patch Changes
+
+- d8b81fd28: Bump `json-schema` dependency from `0.2.5` to `0.3.0`.
+- Updated dependencies [38ca05168]
+- Updated dependencies [80888659b]
+- Updated dependencies [d8b81fd28]
+- Updated dependencies [d1b1306d9]
+  - @backstage/integration@0.5.2
+  - @backstage/core@0.7.8
+  - @backstage/catalog-model@0.7.8
+  - @backstage/config@0.1.5
+  - @backstage/catalog-client@0.3.11
+
 ## 0.9.2
 
 ### Patch Changes

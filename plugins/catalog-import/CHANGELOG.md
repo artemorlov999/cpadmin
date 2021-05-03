@@ -1,5 +1,20 @@
 # @backstage/plugin-catalog-import
 
+## 0.5.5
+
+### Patch Changes
+
+- 38ca05168: The default `@octokit/rest` dependency was bumped to `"^18.5.3"`.
+- 80888659b: Bump react-hook-form version to be the same for the entire project.
+- Updated dependencies [38ca05168]
+- Updated dependencies [80888659b]
+- Updated dependencies [d8b81fd28]
+- Updated dependencies [d1b1306d9]
+  - @backstage/integration@0.5.2
+  - @backstage/core@0.7.8
+  - @backstage/catalog-model@0.7.8
+  - @backstage/catalog-client@0.3.11
+
 ## 0.5.4
 
 ### Patch Changes

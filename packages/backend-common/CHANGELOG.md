@@ -1,5 +1,16 @@
 # @backstage/backend-common
 
+## 0.6.4
+
+### Patch Changes
+
+- 38ca05168: The default `@octokit/rest` dependency was bumped to `"^18.5.3"`.
+- Updated dependencies [38ca05168]
+- Updated dependencies [d8b81fd28]
+  - @backstage/integration@0.5.2
+  - @backstage/config-loader@0.6.1
+  - @backstage/config@0.1.5
+
 ## 0.6.3
 
 ### Patch Changes

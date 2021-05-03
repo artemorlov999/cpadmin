@@ -1,5 +1,19 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.10.2
+
+### Patch Changes
+
+- 38ca05168: The default `@octokit/rest` dependency was bumped to `"^18.5.3"`.
+- Updated dependencies [38ca05168]
+- Updated dependencies [d8b81fd28]
+- Updated dependencies [d1b1306d9]
+  - @backstage/backend-common@0.6.4
+  - @backstage/integration@0.5.2
+  - @backstage/catalog-model@0.7.8
+  - @backstage/config@0.1.5
+  - @backstage/catalog-client@0.3.11
+
 ## 0.10.1
 
 ### Patch Changes

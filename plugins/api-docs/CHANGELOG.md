@@ -1,5 +1,15 @@
 # @backstage/plugin-api-docs
 
+## 0.4.13
+
+### Patch Changes
+
+- cec7fb9b3: Add support for displaying JSON schemas.
+- Updated dependencies [80888659b]
+- Updated dependencies [d8b81fd28]
+  - @backstage/core@0.7.8
+  - @backstage/catalog-model@0.7.8
+
 ## 0.4.12
 
 ### Patch Changes
